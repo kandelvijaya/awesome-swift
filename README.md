@@ -831,6 +831,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift coding conventions for your Swift code.
 * [Swimat](https://github.com/Jintin/Swimat) - Xcode plugin to format Swift code.
 * [Tailor](https://github.com/sleekbyte/tailor) :penguin: - Cross-platform static analyzer for Swift that helps you to write cleaner code and avoid bugs.
+* [XcodeFormatter](https://github.com/kandelvijaya/XcodeFormatter) - Xcode8 plugin/extension to foramt misaligned spaces, empty lines, comments and more.
 
 ### SDK
 [back to top](#readme) 
